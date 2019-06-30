@@ -1,0 +1,11 @@
+[package]
+name = "fbar"
+version = "0.1.0"
+authors = ["seb"]
+edition = "2018"
+
+
+[dependencies]
+    clap = "*"
+    zip = "*"
+
